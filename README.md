@@ -1,4 +1,4 @@
-<img src="https://telegra.ph/file/59530b4e467baea6240eb.png" alt="logo" target="/blank">
+<img src="https://telegra.ph/file/fd51b2c96e41542a42698.jpg" alt="logo" target="/blank">
 
 <h1 align="center">
  <b><a href="https://telegram.me/LazyDeveloper" target="/blank">MissPerfect-URL-BOT</a></>
